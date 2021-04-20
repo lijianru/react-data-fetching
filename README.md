@@ -36,7 +36,6 @@
 <!-- -->
 
 [rtk-query]: https://rtk-query-docs.netlify.app/
-[rtk-query-comparison]: https://rtk-query-docs.netlify.app/introduction/comparison
 [bp-rtk]: https://badgen.net/bundlephobia/minzip/@reduxjs/toolkit?label=💾
 [bp-rtk-query]: https://badgen.net/bundlephobia/minzip/@rtk-incubator/rtk-query?label=💾
 [gh-rtk-query]: https://github.com/rtk-incubator/rtk-query
