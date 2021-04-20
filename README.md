@@ -1,7 +1,7 @@
 # Comparison
-|                                                    | React Query                              | SWR [_(Website)_][swr]     | Apollo Client [_(Website)_][apollo]   | RTK-Query [_(Website)_][rtk-query]   |
-| -------------------------------------------------- | ---------------------------------------- | -------------------------- | ------------------------------------- | ------------------------------------ |
-| Github Repo / Stars                                | [![][stars-react-query]][gh-react-query] | [![][stars-swr]][gh-swr]   | [![][stars-apollo]][gh-apollo]        | [![][stars-rtk-query]][gh-rtk-query] |
+|                                                    | React Query                              | SWR                        | Apollo Client                         | RTK-Query                            | useAsync/useAsyncFn(react-use)       |
+| -------------------------------------------------- | ---------------------------------------- | -------------------------- | ------------------------------------- | ------------------------------------ | ------------------------------------ |
+| Github Repo / Stars                                | [![][stars-react-query]][gh-react-query] | [![][stars-swr]][gh-swr]   | [![][stars-apollo]][gh-apollo]        | [![][stars-rtk-query]][gh-rtk-query] | [![][stars-react-use]][gh-react-use]
 
 
 
@@ -36,3 +36,7 @@
 [stars-rtk-query]: https://img.shields.io/github/stars/rtk-incubator/rtk-query?label=%F0%9F%8C%9F
 [bpl-rtk]: https://bundlephobia.com/result?p=@reduxjs/toolkit
 [bpl-rtk-query]: https://bundlephobia.com/result?p=@rtk-incubator/rtk-query
+
+<!-- -->
+[gh-react-use]: https://github.com/streamich/react-use
+[stars-react-use]: https://img.shields.io/github/stars/streamich/react-use?label=%F0%9F%8C%9F
